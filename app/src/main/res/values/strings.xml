@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UniversalScanner</string>
+    <string name="scanned_value">Scanned Value</string>
+</resources>
